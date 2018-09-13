@@ -6,4 +6,4 @@ This service bring benefits to the employee who won't need to dislocate that muc
 
 The application also counts with useful consulting and advisory features, integrated with tax system and Federal Revenue.
 
-All the system in build in Java and MySQL, utilizing JavaFX library to develop the UI.
+All the system is build in Java and MySQL, utilizing JavaFX library to develop the UI.
